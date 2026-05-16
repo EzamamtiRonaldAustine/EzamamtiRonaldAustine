@@ -119,11 +119,14 @@ machine learning water-quality classification, and multi-channel remote alerting
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/EzamamtiRonaldAustine" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="github" height="30" width="40" />
+<a href="mailto:austineblackezamati@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://github.com/EzamamtiRonaldAustine">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
 </a>
 </p>
-
 ---
 
 ## ⚡ Tech Stack
