@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ezamati Ronald Austine</h1>
+<h1 align="center">Hi 👋, I'm Ezamamti Ronald Austine</h1>
 
 <h3 align="center">
 Full-Stack Web Developer | Embedded Systems Engineer | IoT Innovator
