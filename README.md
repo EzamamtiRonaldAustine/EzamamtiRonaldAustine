@@ -143,15 +143,15 @@ machine learning water-quality classification, and multi-channel remote alerting
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ezamamtironaldaustine&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=EzamamtiRonaldAustine&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ezamamtironaldaustine&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=EzamamtiRonaldAustine&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezamamtironaldaustine&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzamamtiRonaldAustine&layout=compact&theme=tokyonight" />
 </p>
 
 ---
